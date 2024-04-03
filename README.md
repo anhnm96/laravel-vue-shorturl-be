@@ -24,4 +24,5 @@ Start the development server with Laravel Sail (requires [docker](https://www.do
 
 ```
 ./vendor/bin/sail up
+./vendor/bin/sail artisan migrate
 ```
